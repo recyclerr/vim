@@ -8,4 +8,4 @@ install:
 	ln -s $(REPO_DIR) $(HOME)/.vim
 
 update:
-	git submodule update
+	git submodule foreach git pull origin master
