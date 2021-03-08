@@ -25,3 +25,6 @@
 [submodule "bundle/vim-qml"]
 	path = bundle/vim-qml
 	url = git@github.com:peterhoeg/vim-qml.git
+[submodule "vim-plug"]
+	path = vim-plug
+	url = https://github.com/junegunn/vim-plug
